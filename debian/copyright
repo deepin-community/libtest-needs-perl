@@ -4,13 +4,13 @@ Upstream-Contact: haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>
 Upstream-Name: Test-Needs
 
 Files: *
-Copyright: 2021, haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>
+Copyright: 2023, haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>
 License: Artistic or GPL-1+
 
 Files: debian/*
 Copyright: 2016, Angel Abad <angel@debian.org>
  2016, Lucas Kanashiro <kanashiro@debian.org>
- 2016-2021, gregor herrmann <gregoa@debian.org>
+ 2016-2023, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
